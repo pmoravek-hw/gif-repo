@@ -15,6 +15,12 @@ A collection of random gifs for pull requests
    </p>
 </details>
 <details>
+   <summary>borat1.gif</summary>
+   <p>
+       <img src="https://github.com/pmoravek-hw/gifhub/raw/master/borat1.gif" alt="x">
+   </p>
+</details>
+<details>
    <summary>clapclap.gif</summary>
    <p>
        <img src="https://github.com/pmoravek-hw/gifhub/raw/master/clapclap.gif" alt="x">
@@ -165,6 +171,18 @@ A collection of random gifs for pull requests
    </p>
 </details>
 <details>
+   <summary>safety-1.gif</summary>
+   <p>
+       <img src="https://github.com/pmoravek-hw/gifhub/raw/master/safety-1.gif" alt="x">
+   </p>
+</details>
+<details>
+   <summary>safety-2s.gif</summary>
+   <p>
+       <img src="https://github.com/pmoravek-hw/gifhub/raw/master/safety-2s.gif" alt="x">
+   </p>
+</details>
+<details>
    <summary>shipit-revert.gif</summary>
    <p>
        <img src="https://github.com/pmoravek-hw/gifhub/raw/master/shipit-revert.gif" alt="x">
@@ -192,6 +210,24 @@ A collection of random gifs for pull requests
    <summary>tenor.gif</summary>
    <p>
        <img src="https://github.com/pmoravek-hw/gifhub/raw/master/tenor.gif" alt="x">
+   </p>
+</details>
+<details>
+   <summary>this-is-the-way-2.gif</summary>
+   <p>
+       <img src="https://github.com/pmoravek-hw/gifhub/raw/master/this-is-the-way-2.gif" alt="x">
+   </p>
+</details>
+<details>
+   <summary>this-is-the-way.gif</summary>
+   <p>
+       <img src="https://github.com/pmoravek-hw/gifhub/raw/master/this-is-the-way.gif" alt="x">
+   </p>
+</details>
+<details>
+   <summary>thumbs-up.gif</summary>
+   <p>
+       <img src="https://github.com/pmoravek-hw/gifhub/raw/master/thumbs-up.gif" alt="x">
    </p>
 </details>
 <details>
