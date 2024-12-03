@@ -15,9 +15,9 @@ A collection of random gifs for pull requests
    </p>
 </details>
 <details>
-   <summary>borat1.gif</summary>
+   <summary>borat-approves.gif</summary>
    <p>
-       <img src="https://github.com/pmoravek-hw/gifhub/raw/master/borat1.gif" alt="x">
+       <img src="https://github.com/pmoravek-hw/gifhub/raw/master/borat-approves.gif" alt="x">
    </p>
 </details>
 <details>
